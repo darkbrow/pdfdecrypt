@@ -22,6 +22,6 @@ pip install PyPDF2
 
 ## Usage
 ```
-python decrypt_pdf.py <input.pdf> <output.pdf>
+python pdfdecrypt.py <input.pdf> <output.pdf>
 ```
 
